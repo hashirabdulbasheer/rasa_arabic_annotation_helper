@@ -1,8 +1,8 @@
 # Rasa Arabic Annotation Helper
 
-rm
+A simple web app to help with annotating entities from Rasa arabic strings.
 
-[![VIDEO](https://img.youtube.com/vi/yu2hJVtIG2o/0.jpg)](https://www.youtube.com/watch?v=yu2hJVtIG2o)
+[![VIDEO](https://github.com/hashirabdulbasheer/my_assets/raw/master/rasa_arabic_annotation_helper/youtube.png)](https://www.youtube.com/watch?v=yu2hJVtIG2o)
 
 
 
